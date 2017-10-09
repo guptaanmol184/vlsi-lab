@@ -1,0 +1,66 @@
+Dear All,
+
+As I have already discussed in the class, this week you have to understand the usage of two important memory simulation tools.
+
+1. CACTI Tool.
+This tool is used for studying the SRAM memory performance metrics in terms of power and delay primarily.
+The following are the links for downloading the tool and the related information:
+
+http://quid.hpl.hp.com:9081/cacti/  
+
+http://www.hpl.hp.com/research/cacti/ and also I have attached a document for your reference.
+
+
+2. TCAM Tool
+
+TCAMs belong to a different class of memories called as "Content Addressable Memories". These are primarily used for searching purposes. In order to assess the TCAM performance in terms of delay and power against their sizes, B.Agarwal et al., have designed a tool which is available at the following link:
+
+
+http://www.cs.ucsb.edu/~arch/mem-model/. 
+
+You can download the tool from this link and also I am attaching a pdf document for your additional reference.
+
+
+Experiment - 6
+
+
+Part-1
+
+
+A. Use the CACTI tool and plot the "Memory Size Vs Energy Consumption && Access Delay" for the following sizes -- 32 Kb, 64, 128, 256, 512 Kb, and 1Mb SRAMs using the latest CACTI tool version.
+
+
+B.. Please understand the basic principles on which the code is constructed and also the SRAM memory basics.
+
+
+Part-2
+
+
+A. Use the TCAM tool and plot the "Memory Size Vs Energy Consumption && Access Delay" for the same sizes as in the case of SRAM.
+
+
+B. Also, understand the basic principles involved in the model generation by referring to the pdf attachment: "TCAM"
+
+
+
+Part-3
+
+
+Comment the inferences you have gained from your simulation results regarding the performance of SRAM and TCAM and also discuss the reasons for the same.
+
+
+
+This is an easy exercise which involves just running the code downloaded from the link. But before starting the execution, I seriously suggest you read the documents attached properly so that the simulation results will be proper and also you can score well in the viva section.
+
+
+
+For any further clarifications and fixing the deadline, let us meet during Wednesday lab.
+
+
+
+Thank You,
+
+
+Regards,
+
+V S M Srinivasa Varma,
